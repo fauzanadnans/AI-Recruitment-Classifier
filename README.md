@@ -48,12 +48,4 @@ Recruitment processes often struggle with **unstructured job descriptions** and 
 
 ## 🚀 Deployment
 The system is deployed via **Streamlit** for interactive AI-based recruitment analysis.  
-🔗 **Live Demo**: [https://ai-recruitment-classifier.streamlit.app/](https://ai-recruitment-classifier.streamlit.app/)  
-
-## 📥 Installation & Usage
-To run the project locally:
-```bash
-git clone https://github.com/yourusername/AI-Recruitment-Classifier.git
-cd AI-Recruitment-Classifier
-pip install -r requirements.txt
-streamlit run app.py
+🔗 **Live Demo**:https://finpronautixtech.streamlit.app/
